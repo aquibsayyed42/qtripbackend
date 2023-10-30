@@ -58,5 +58,5 @@ jobs:
         with:
           app-name: 'qtrip'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_6688574BCE73445EBA10099EF53582B8 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_2DEA82E8062448B4AC0941C3A80748C1 }}
           package: .
